@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "brgy.official.password",
+    "type": "java.lang.String",
+    "description": "A description for 'brgy.official.password'"
+  },
+  {
+    "name": "brgy.official.username",
+    "type": "java.lang.String",
+    "description": "A description for 'brgy.official.username'"
+  },
+  {
+    "name": "brgy.official.try",
+    "type": "java.lang.String",
+    "description": "A description for 'brgy.official.try'"
+  },
+  {
+    "name": "db.username",
+    "type": "java.lang.String",
+    "description": "A description for 'db.username'"
+  },
+  {
+    "name": "db.passsword",
+    "type": "java.lang.String",
+    "description": "A description for 'db.passsword'"
+  },
+  {
+    "name": "db.url",
+    "type": "java.lang.String",
+    "description": "A description for 'db.url'"
+  },
+  {
+    "name": "db.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'db.driver'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
